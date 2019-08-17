@@ -1,4 +1,10 @@
-# hello-world
-try out a github project by adding some changes and see how the commits work
+# Welcome to STAT 3119. Analysis of Variance. 3 Credits.
 
-See if it will be updated
+## Lecture (3 hours), laboratory (1 hour). 
+## Class coverage: 
+*  Introduction to the design of experiments 
+*  Analysis of variance; 
+*  Randomized block, factorial
+*  Latin square designs, 
+*  Analysis of covariance. 
+### Prerequisite: STAT 2118 (STAT 2118. Regression Analysis.)
