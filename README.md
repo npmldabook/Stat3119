@@ -4,7 +4,9 @@
 ## Class coverage: 
 *  Introduction to the design of experiments 
 *  Analysis of variance; 
-*  Randomized block, factorial
-*  Latin square designs, 
+*  Randomized block, 
+*  Factorial design
+*  Latin square design, 
+*  Random and fixed effect models
 *  Analysis of covariance. 
 ### Prerequisite: STAT 2118 (STAT 2118. Regression Analysis.)
