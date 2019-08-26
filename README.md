@@ -13,4 +13,4 @@
 
 Textbook: 
 [Applied Linear Statistical Models (5th ed.), by Micheal Kutner et al.](https://create.mheducation.com/shop/#/catalog/details/?isbn=9781307495218): (customized e-book or print)
-   [E-book Access online from PC](https://create.mheducation.com/shop/#/bookshelf/main/), or from an iPad/Tablet.
+After purchase, you get [E-book Access online from PC](https://create.mheducation.com/shop/#/bookshelf/main/) , or  from an App in iPad/Tablet.
