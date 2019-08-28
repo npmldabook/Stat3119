@@ -10,7 +10,7 @@
 *  Random and fixed effect models
 *  Analysis of covariance. 
 *  other more advance design topics if time allows
-## This class has a focus on applications: The learning outcome include
+## This class has a focus on applications: The learning outcomes include
 1.	Learn the main methods of experiment design 
 2.	Design your own experiment to gather data to answer your research questions
 3.	Apply the appropriate models and techniques to analyze and interpret experiment data
