@@ -1,6 +1,5 @@
-# Welcome to STAT 3119. Analysis of Variance. 3 Credits.
-
-## Lecture (3 hours), laboratory (1 hour). 
+# Welcome to STAT 3119. Analysis of Variance.  
+ 
 ## Class coverage: 
 *  Introduction to the design of experiments 
 *  Analysis of variance; 
