@@ -1,6 +1,5 @@
-# Welcome to STAT 3119. Analysis of Variance. 3 Credits.
-
-## Lecture (3 hours), laboratory (1 hour). 
+# Welcome to STAT 3119. Analysis of Variance.  
+ 
 ## Class coverage: 
 *  Introduction to the design of experiments 
 *  Analysis of variance; 
@@ -9,6 +8,12 @@
 *  Latin square design, 
 *  Random and fixed effect models
 *  Analysis of covariance. 
+*  other more advance design topics if time allows
+## This class has a focus on applications: The learning outcomes include
+1.	Learn the main methods of experiment design 
+2.	Design your own experiment to gather data to answer your research questions
+3.	Apply the appropriate models and techniques to analyze and interpret experiment data
+
 ### Prerequisite: STAT 2118 (STAT 2118. Regression Analysis.)
 
 Textbook: 
