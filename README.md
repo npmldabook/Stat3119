@@ -21,3 +21,5 @@ Textbook:
 After purchase, you get [E-book Access online from PC](https://create.mheducation.com/shop/#/bookshelf/main/) , or  from an App in iPad/Tablet.
 
 ### TA office hour : Thurs 3-5 pm  @ Rome Hall 751 
+###  My office hour:  Thurs 5-6  @Rome Hall 741 (tutoring lab)
+
