@@ -22,8 +22,3 @@ After purchase, you get [E-book Access online from PC](https://create.mheducatio
 
 ### TA office hour : Thurs 3-5 pm  @ Rome Hall 751 
 ###  My office hour:  Thurs 5-6  @Rome Hall 741 (tutoring lab)
-
-Sample papers:
-###  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969380/ 
-### https://www.ncbi.nlm.nih.gov/pubmed/30846083
-### https://www.sciencedirect.com/science/article/pii/S1936879818323902?via%3Dihub 
