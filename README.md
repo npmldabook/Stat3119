@@ -20,5 +20,6 @@ Textbook:
 [Applied Linear Statistical Models (5th ed.), by Micheal Kutner et al.](https://create.mheducation.com/shop/#/catalog/details/?isbn=9781307495218): (customized e-book or print)
 After purchase, you get [E-book Access online from PC](https://create.mheducation.com/shop/#/bookshelf/main/) , or  from an App in iPad/Tablet.
 
-### TA office hour : Thurs 3-5 pm  @ Rome Hall 751 
-###  My office hour:  Thurs 5-6  @Rome Hall 741 (tutoring lab)
+###  Final TA office hour (Dec 10): Tues 2-3 pm  @ Rome Hall 751  
+
+###  Final Instructor's office hours: online sessions (Mon, Wed 7:30-8:30): see Lecture 15B for information
