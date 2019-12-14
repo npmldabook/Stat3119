@@ -23,3 +23,5 @@ After purchase, you get [E-book Access online from PC](https://create.mheducatio
 ###  Final TA office hour (Dec 10): Tues 2-3 pm  @ Rome Hall 751  
 
 ###  Final Instructor's office hours: online sessions (Mon, Wed 7:30-8:30): see Lecture 15B for information
+
+### For any missed notes, please email the instructor! Happy Holiday!
